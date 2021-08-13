@@ -3,7 +3,7 @@ from enum import Enum
 
 class TicketStatus(Enum):
     ACTIVE = 1
-    EXPIRED = 2
+    COMPLETED = 2
 
 
 class VehicleType(Enum):
